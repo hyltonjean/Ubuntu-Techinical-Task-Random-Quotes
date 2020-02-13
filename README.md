@@ -1,1 +1,1 @@
-# Ubuntu-Techinical-Task-Random-Quotes
+# Ubuntu-Technical-Task-Random-Quotes
